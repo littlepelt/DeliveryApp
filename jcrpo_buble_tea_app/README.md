@@ -1,2 +1,2 @@
-# jcrpo_project_bubble_tea_app
+# Lovers Of Boba
 Приложение для заказа бобы
