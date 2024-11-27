@@ -8,12 +8,12 @@
 
 ### 1. Вход в аккаунт<a name="1"></a>
 
-![Вход в аккаунт](images/signInFilmSequenceDiagram.png)
+![Вход в аккаунт](images/signInBobaSequenceDiagram.png)
 
 ### 2. Действия на главном экране<a name="2"></a>
 
-![Регистрация](images/switchScreenHomeSequenceDiagram.png)
+![Регистрация](images/switchScreenCartSequenceDiagram.png)
   
 ### 3. Действия на экране списка еды<a name="3"></a>
 
-![Создание события](images/takeFoodSequenceDiagram.png)
+![Создание события](images/takeBobaSequenceDiagram.png)
