@@ -16,4 +16,4 @@
   
 ### 3. Действия на экране списка еды<a name="3"></a>
 
-![Создание события](images/checkFoodState.drawio.png)
+![Создание события](images/checkBobaState.png)
